@@ -21,3 +21,4 @@ read
 readm
 readme
 readm
+read
