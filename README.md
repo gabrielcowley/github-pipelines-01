@@ -18,3 +18,5 @@ r
 re
 rea
 read
+readm
+readme
