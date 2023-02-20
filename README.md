@@ -21,5 +21,3 @@ read
 readm
 readme
 readm
-read
-rea
