@@ -10,3 +10,4 @@ rea
 read
 readm
 readme
+readm
