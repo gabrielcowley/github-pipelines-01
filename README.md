@@ -4,7 +4,7 @@ readm
 read
 rea
 re
-re
+r
 re
 rea
 read
