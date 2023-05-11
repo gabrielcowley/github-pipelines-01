@@ -1,0 +1,7 @@
+{
+    "overlays": {
+        "core": ["core"],
+        "eu": ["core", "eu"],
+        "us": ["core", "us"]
+    }
+}
