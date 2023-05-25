@@ -6,7 +6,7 @@ rea
 re
 r
 re
-rea
+read
 read
 readm
 readme
