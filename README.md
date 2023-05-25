@@ -2,7 +2,7 @@
 readmee
 readm
 read
-rea
+read
 re
 r
 re
