@@ -2,6 +2,16 @@
 readmee
 readm
 read
+read
+re
+r
+re
+rea
+read
+readm
+readme
+readm
+read
 rea
 re
 r
@@ -36,3 +46,4 @@ rea
 re
 r
 re
+rea
