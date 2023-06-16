@@ -2,7 +2,7 @@
 readmee
 readm
 read
-rea
+read
 re
 r
 re
@@ -26,3 +26,14 @@ rea
 re
 r
 re
+rea
+read
+readm
+readme
+readm
+read
+rea
+re
+r
+re
+rea
