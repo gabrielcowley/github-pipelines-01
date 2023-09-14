@@ -37,3 +37,8 @@ re
 r
 re
 rea
+read
+readm
+readme
+readm
+read
