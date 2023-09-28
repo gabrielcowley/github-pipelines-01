@@ -31,6 +31,7 @@ read
 readm
 readme
 readm
+readm
 read
 rea
 re
