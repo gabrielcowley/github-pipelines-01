@@ -35,7 +35,7 @@
             <fieldInstance>
                 <fieldInstanceProperties>
                     <name>uiBehavior</name>
-                    <value>readonly</value>
+                    <value>required</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.OwnerId</fieldItem>
                 <identifier>RecordOwnerIdField</identifier>
@@ -228,10 +228,6 @@
                 <componentInstanceProperties>
                     <name>columns</name>
                     <value>Facet-ee8ac060-44bb-4867-b1cd-155fd588496a</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>true</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>label</name>
@@ -486,10 +482,6 @@
                     <value>Facet-45b512b0-bab4-49a4-8364-335a40eb4145</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
                     <name>label</name>
                     <value>Address Information</value>
                 </componentInstanceProperties>
@@ -502,10 +494,6 @@
                 <componentInstanceProperties>
                     <name>columns</name>
                     <value>Facet-79376c67-ef4d-4513-bf4f-6062cefdbe03</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>label</name>
@@ -522,10 +510,6 @@
                     <value>Facet-2177a487-dbf2-4c5a-9f2f-4a1ee9f0193a</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
                     <name>label</name>
                     <value>System Information</value>
                 </componentInstanceProperties>
@@ -538,10 +522,6 @@
                 <componentInstanceProperties>
                     <name>columns</name>
                     <value>Facet-f1de364d-d72b-4ce3-9388-554777e58a2a</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>label</name>
