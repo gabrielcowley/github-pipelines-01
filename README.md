@@ -32,3 +32,5 @@ readm
 readme
 readm
 read
+rea
+re
