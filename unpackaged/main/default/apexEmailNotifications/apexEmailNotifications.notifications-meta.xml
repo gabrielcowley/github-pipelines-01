@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ApexEmailNotifications xmlns="http://soap.sforce.com/2006/04/metadata">
     <apexEmailNotification>
-        <email>gabriel+apexemail3@gearset.com</email>
+        <user>gabriel@gearset.com</user>
     </apexEmailNotification>
     <apexEmailNotification>
-        <user>gabriel@gearset.com</user>
+        <email>gabriel+apexemail3@gearset.com</email>
     </apexEmailNotification>
     <apexEmailNotification>
         <email>gabriel+apexemail2@gearset.com</email>
