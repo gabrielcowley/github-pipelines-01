@@ -3,7 +3,7 @@
     <fullName>MaxSize__c</fullName>
     <externalId>false</externalId>
     <label>MaxSize</label>
-    <precision>18</precision>
+    <precision>16</precision>
     <required>false</required>
     <scale>0</scale>
     <trackTrending>false</trackTrending>
