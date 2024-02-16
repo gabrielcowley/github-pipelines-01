@@ -9,4 +9,5 @@
     <trackTrending>false</trackTrending>
     <type>Number</type>
     <unique>false</unique>
+    <visibleLines>5</visibleLines>
 </CustomField>
