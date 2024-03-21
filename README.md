@@ -2,3 +2,4 @@
 readme
 readm
 read
+rea
